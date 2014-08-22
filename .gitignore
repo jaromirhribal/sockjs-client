@@ -8,3 +8,4 @@ testling.js
 build/
 tests/html/lib/alltestsbundle.js
 tests/html/lib/sockjs.js.map
+.DS_store
